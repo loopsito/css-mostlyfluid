@@ -1,0 +1,18 @@
+.container {
+    width: 800px;
+    margin-left:auto ;
+    margin-right: auto;
+}
+.caja1 {
+    width: 60%;
+}
+.caja2 {
+    width: 40%;
+}
+.caja3,
+.caja5 {
+    width: 33%;
+}
+.caja4 {
+    width: 34%;
+}
